@@ -1,0 +1,95 @@
+.App{
+  margin: 3%;
+}
+
+.inp{
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+}
+
+#img1{
+  height: 20px;
+  width: 18px;
+  border: 1PX solid black;
+}
+#p01{
+  color: blue;
+  font-size: 150%;
+  font-weight: 900;
+  margin-left: 3%;
+}
+#np p{
+  display: flex;
+  margin: 1;
+  margin-top: 2px;
+}
+#p001{
+  margin-right: 1px;
+  float: right;
+}
+#p002{
+  margin-right: 3px;
+  float: right;
+}
+#div2{
+  margin-top: 7%;
+  display: flex;
+  background-color: rgb(32, 32, 240);
+  border-radius:  27px;
+  box-shadow: 2px 1px 3px 3px #ebe3e3;
+}
+#p02{
+  text-align: center;
+}
+#img2{
+  height: 89px;
+  width: 98px;
+  margin-left: 10%;
+  margin-right: 20%;
+  margin-top: 15px;
+}
+#div3{
+  text-align: center;
+}
+#div3 p{
+  color: aliceblue;
+
+}
+#p1{
+  margin-top: 15px;
+  font-size: 200%;
+}
+#p2{
+  margin-top: -30px;
+  font-size: 60%;
+  font-weight: 100;
+}
+#p3{
+  margin-top: 30px;
+  font-size: 90%;
+  font-weight:500;
+}
+
+#div4{
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 10%;
+}
+#div4 p{
+  color: aliceblue;
+  display: flex;
+
+} 
+
+#p11{
+  margin-top: 15px;
+  font-size: 240%;
+}
+#p12{
+  margin-top: 0px;
+  font-size: 80%;
+  font-weight: 100;
+  margin-bottom: 3%;
+  margin-right: 26%;
+}
