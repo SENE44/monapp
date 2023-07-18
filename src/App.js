@@ -3,6 +3,7 @@ import Accueille from './accueille';
 import P2 from './p2'
 function App() {
   return(
+  <div>   
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Accueille/>}/>
@@ -10,6 +11,7 @@ function App() {
 
       </Routes>
     </BrowserRouter>
+    </div> 
   )
  
 }
